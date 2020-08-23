@@ -5,5 +5,5 @@ Making it work should be easy enough
 
 
 ```
-urduKeyboard(elementId)
+urduKeyboard(elementId);
 ```

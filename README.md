@@ -7,3 +7,6 @@ Making it work should be easy enough
 ```
 urduKeyboard(elementId);
 ```
+## Layout
+
+<img src="https://raw.githubusercontent.com/Chashm-e-Afreen/aruuz-gah-frontend/master/img/KeyboardLayout.png" alt="Project logo"></a>

@@ -24,5 +24,3 @@ inputText.addEventListener("keyup", event => {
   })
 
 }
-
-urduKeyboard("islahInput")

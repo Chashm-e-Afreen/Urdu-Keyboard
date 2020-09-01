@@ -9,4 +9,4 @@ urduKeyboard(elementId);
 
 ## Layout
 
-<img src="https://raw.githubusercontent.com/Chashm-e-Afreen/aruuz-gah-frontend/master/img/KeyboardLayout.png" alt="Project logo"></a>
+<img src="https://raw.githubusercontent.com/Chashm-e-Afreen/Urdu-Keyboard/master/KeyboardLayout.webp" alt="Project logo"></a>

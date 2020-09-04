@@ -77,14 +77,16 @@ function urduKeyboard(id) {
     inputText.addEventListener("input", function() {
         let S = [];
         let val = inputText.value;
-        
+        //get current cursor position
         let cursorPostion = inputText.selectionEnd;
+        //iterate through the text changing all alphanumerics to their Urdu counterparts
         for (let i = 0; i < val.length; ++i) {
             var char = val.charAt(i);
             S.push(m[char]||char);  
         }
 
         inputText.value = S.join(''); 
+        //restore the original cursor position
         inputText.setSelectionRange(cursorPostion,cursorPostion);
     })
   }

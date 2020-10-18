@@ -1,7 +1,7 @@
 # Urdu-Keyboard
-A javascript function to force an Urdu keyboard layout in a textarea. It should work for other elements besides textareas too but I haven't checked. 
+A javascript function that forces an Urdu keyboard layout in an input field.
 
-Making it work should be easy enough.
+To make it work simply invoke the function with the targent element's Id as a function parameter:
 
 ```
 urduKeyboard(elementId);
